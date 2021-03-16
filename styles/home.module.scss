@@ -1,0 +1,25 @@
+.myClass{
+    display: flex;
+    flex-direction: column;
+}
+
+.postPaper{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.postHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.postFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.postHeaderLeft{
+    display: flex;
+    flex-direction: row;
+}
